@@ -584,7 +584,7 @@ section.tabs .tab-image img:last-child {
   grid-template-columns: 1fr;
   row-gap: 20px;
   justify-items: center;
-  background-image: url(/img/12341.jpg);
+  background-image: url(...img/12341.jpg);
   background-size: no-repeat;
   background-position: center center;
   background-size: cover;
